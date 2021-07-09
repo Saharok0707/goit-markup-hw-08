@@ -1,6 +1,6 @@
 .s1-hero {
   background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-    url(../image/Img155.jpg);
+    url(../../image/M_header.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -10,7 +10,7 @@
     margin: 0 auto;
     @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../image/Img155.jpg);
+        url(../../image/M_header_2x.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -18,7 +18,7 @@
   
     @media screen and (min-width: 768px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../image/Theader.jpg);
+        url(../../image/T_header.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -28,7 +28,7 @@
       (min-resolution: 192dpi) and (min-width: 768px),
       (min-resolution: 2dppx) and (min-width: 768px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../image/Theader-2x.jpg);
+        url(../image/T_header_2x.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -36,7 +36,7 @@
   
     @media screen and (min-width: 1200px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../image/Dheader.jpg);
+        url(../image/D_header.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -49,7 +49,7 @@
       (min-resolution: 192dpi) and (min-width: 1200px),
       (min-resolution: 2dppx) and (min-width: 1200px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../image/Dheader-2x.jpg);
+        url(../image/D_header_2x.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
