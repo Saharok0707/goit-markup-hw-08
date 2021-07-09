@@ -861,7 +861,7 @@ img {
 }
 
 .s1-hero {
-  background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)), url(../../image/M_header.jpg);
+  background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)), url(../image/M_header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -873,7 +873,7 @@ img {
 
 @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
   .s1-hero {
-    background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)), url(../../image/M_header_2x.jpg);
+    background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)), url(../image/M_header_2x.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -882,7 +882,7 @@ img {
 
 @media screen and (min-width: 768px) {
   .s1-hero {
-    background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)), url(../../image/T_header.jpg);
+    background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)), url(../image/T_header.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
