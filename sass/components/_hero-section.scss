@@ -18,7 +18,7 @@
   
     @media screen and (min-width: 768px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../box/Mheader.jpg);
+        url(../../image/Theader.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -28,7 +28,7 @@
       (min-resolution: 192dpi) and (min-width: 768px),
       (min-resolution: 2dppx) and (min-width: 768px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../box/Mheader-2x.jpg);
+        url(../../image/Theader-2x.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -36,7 +36,7 @@
   
     @media screen and (min-width: 1200px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../box/Dheader.jpg);
+        url(../../image/Dheader.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -49,7 +49,7 @@
       (min-resolution: 192dpi) and (min-width: 1200px),
       (min-resolution: 2dppx) and (min-width: 1200px) {
       background: linear-gradient(45deg, rgba(116, 117, 122, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../box/Dheader-2x.jpg);
+        url(../../image/Dheader-2x.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
