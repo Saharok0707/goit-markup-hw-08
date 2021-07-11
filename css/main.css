@@ -736,6 +736,7 @@ img {
   padding-bottom: 0;
   display: flex;
   align-items: center;
+  display: inline-block;
 }
 
 @media screen and (min-width: 1200px) {
@@ -1493,6 +1494,13 @@ img {
   padding: 0;
 }
 
+@media screen and (min-width: 768px) {
+  .portfolio-list {
+    flex-basis: auto;
+    width: 100%;
+  }
+}
+
 .portfolio-list__link {
   text-decoration: inherit;
 }
@@ -1512,6 +1520,7 @@ img {
   .portfolio-list__item {
     flex-basis: calc((100% - 60px) / 2);
     margin-right: 30px;
+    text-align: center;
   }
 }
 
